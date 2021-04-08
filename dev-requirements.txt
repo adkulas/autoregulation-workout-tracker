@@ -6,7 +6,7 @@ black==19.10b0
 cfgv==2.0.1
 Click==7.0
 coverage==4.5.4
-Django==2.2.7
+Django==2.2.20
 django-crispy-forms==1.8.0
 django-filters==0.2.1
 djangorestframework==3.10.3
